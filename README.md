@@ -1,6 +1,6 @@
-## 👋
+## Arthur 👋
 
-# 💫 About Me:
+# 💫 Sobre Mim:
 Estudante de Ciência da Computação na UESC
 
 
